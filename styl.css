@@ -30,7 +30,7 @@ a:link {
 /*podgrubienie czcionki */
 font-weight: bold;
 /* usuwa podkreślenie linku */
-text-decoration: none;
+text-decoration: white;
 /* ustawia kolor tekstu na czerwony */
   color: red;
 }
